@@ -1,11 +1,6 @@
-
-<img width="1470" height="920" alt="Screenshot 2026-04-10 at 4 23 54 PM" src="https://github.com/user-attachments/assets/e741c494-bf4c-40f6-8345-d8df5ba3e470" />
-
-<img width="1470" height="920" alt="Screenshot 2026-04-10 at 4 24 27 PM" src="https://github.com/user-attachments/assets/ea9043be-f4c7-4828-a97e-a6c2db4cde43" />
-
-<img width="603" height="530" alt="Screenshot 2026-04-08 at 7 45 18 PM" src="https://github.com/user-attachments/assets/3ed53b88-3a70-4cb4-97ac-7eb9f5ae256a" />
-
-
+<img width="2482" height="1754" alt="p1_page-0001" src="https://github.com/user-attachments/assets/1db48015-69f6-4d27-adef-2f6c5acbb8e1" />
+<img width="2482" height="1754" alt="p1_page-0002" src="https://github.com/user-attachments/assets/a060d8a3-1266-4ec0-8001-60fa975140e6" />
+<img width="2482" height="1754" alt="p1_page-0003" src="https://github.com/user-attachments/assets/6d209f46-1719-411a-a119-23bcf2b2c842" />
 
 ### How to run it on your own machine
 
