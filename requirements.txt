@@ -1,1 +1,8 @@
 streamlit
+osmnx
+pandas
+numpy
+scikit-learn
+pydeck
+folium
+streamlit-folium
